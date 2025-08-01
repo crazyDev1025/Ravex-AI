@@ -19,7 +19,7 @@ export default function Footer() {
         <div className="flex flex-col sm:items-end sm:mt-0 mt-[4%]">
           <div className="flex items-center gap-3 mb-3 sm:gap-7 sm:mb-5">
             <a
-              href="https://t.me/RAVEX_defi"
+              href="https://t.me/Ravex_AI"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -30,7 +30,7 @@ export default function Footer() {
               />
             </a>
             <a
-              href="https://x.com/RAVEX_defi"
+              href="https://x.com/Ravex_AI"
               target="_blank"
               rel="noopener noreferrer"
             >

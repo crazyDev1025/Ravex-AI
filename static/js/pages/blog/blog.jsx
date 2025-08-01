@@ -224,12 +224,12 @@ function BlogPostCard({ post }) {
 const socialLinks = [
   {
     name: "Twitter",
-    url: "https://x.com/RAVEX_defi",
+    url: "https://x.com/Ravex_AI",
     icon: FaXTwitter,
   },
   {
     name: "Telegram",
-    url: "https://t.me/RAVEX_defi",
+    url: "https://t.me/Ravex_AI",
     icon: FaTelegramPlane,
   },
 ];

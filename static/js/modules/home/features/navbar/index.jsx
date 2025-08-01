@@ -37,7 +37,7 @@ const docsLinks = [
 const resourcesLinks = [
   {
     name: "Doc",
-    href: "https://docs.RAVEXdefi.pro",
+    href: "https://docs.ravexai.org",
   },
   {
     name: "FAQs",
@@ -49,7 +49,7 @@ const resourcesLinks = [
   },
   {
     name: "Doc",
-    href: "https://docs.RAVEXdefi.pro",
+    href: "https://docs.ravexai.org",
   },
 ];
 
@@ -278,7 +278,7 @@ export default function Navbar() {
                   <FiGithub className="text-xl" />
                 </a>
                 <a
-                  href="https://x.com/RAVEX_defi"
+                  href="https://x.com/Ravex_AI"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white transition-colors duration-300 transform hover:text-white hover:scale-110"
@@ -286,7 +286,7 @@ export default function Navbar() {
                   <FaXTwitter className="text-xl" />
                 </a>
                 <a
-                  href="https://t.me/RAVEX_defi"
+                  href="https://t.me/Ravex_AI"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white transition-colors duration-300 transform hover:text-white hover:scale-110"
@@ -295,7 +295,7 @@ export default function Navbar() {
                 </a>
               </div>
               <a
-                href="https://app.RAVEXdefi.pro"
+                href="https://app.ravexai.org"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -377,7 +377,7 @@ export default function Navbar() {
               <FiGithub className="text-2xl" />
             </a>
             <a
-              href="https://x.com/RAVEX_defi"
+              href="https://x.com/Ravex_AI"
               target="_blank"
               rel="noopener noreferrer"
               className="transition-colors hover:text-white"
@@ -385,7 +385,7 @@ export default function Navbar() {
               <FaXTwitter className="text-2xl" />
             </a>
             <a
-              href="https://t.me/RAVEX_defi"
+              href="https://t.me/Ravex_AI"
               target="_blank"
               rel="noopener noreferrer"
               className="transition-colors hover:text-white"
@@ -395,7 +395,7 @@ export default function Navbar() {
           </div>
           <div className="w-full mt-4">
             <a
-              href="https://app.RAVEXdefi.pro"
+              href="https://app.ravexai.org"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full"

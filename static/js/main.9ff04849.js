@@ -21208,7 +21208,7 @@
                     className: "flex items-center gap-3 mb-3 sm:gap-7 sm:mb-5",
                     children: [
                       (0, Me.jsx)("a", {
-                        href: "https://t.me/RAVEX_defi",
+                        href: "https://t.me/Ravex_AI",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, Me.jsx)("img", {
@@ -21218,7 +21218,7 @@
                         }),
                       }),
                       (0, Me.jsx)("a", {
-                        href: "https://x.com/RAVEX_defi",
+                        href: "https://x.com/Ravex_AI",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, Me.jsx)("img", {
@@ -22514,7 +22514,7 @@
         Uu = [
           { name: "FAQs", href: "/faqs" },
           { name: "Glossary", href: "/glossary" },
-          { name: "Doc", href: "https://docs.RAVEXdefi.pro" },
+          { name: "Doc", href: "https://docs.ravexai.org" },
         ],
         Wu = () => {
           const [e, t] = (0, i.useState)(!1),
@@ -22742,7 +22742,7 @@
                           ],
                         }),
                         (0, Me.jsx)("a", {
-                          href: "https://app.RAVEXdefi.pro",
+                          href: "https://app.ravexai.org",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           children: (0, Me.jsx)(fl, {
@@ -22867,14 +22867,14 @@
                         children: (0, Me.jsx)(mu, { className: "text-2xl" }),
                       }),
                       (0, Me.jsx)("a", {
-                        href: "https://x.com/RAVEX_defi",
+                        href: "https://x.com/Ravex_AI",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "transition-colors hover:text-white",
                         children: (0, Me.jsx)(cu, { className: "text-2xl" }),
                       }),
                       (0, Me.jsx)("a", {
-                        href: "https://t.me/RAVEX_defi",
+                        href: "https://t.me/Ravex_AI",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "transition-colors hover:text-white",
@@ -22885,7 +22885,7 @@
                   (0, Me.jsx)("div", {
                     className: "w-full mt-4",
                     children: (0, Me.jsx)("a", {
-                      href: "https://app.RAVEXdefi.pro",
+                      href: "https://app.ravexai.org",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "block w-full",
@@ -25534,8 +25534,8 @@
         });
       }
       const hd = [
-        { name: "Twitter", url: "https://x.com/RAVEX_defi", icon: cu },
-        { name: "Telegram", url: "https://t.me/RAVEX_defi", icon: pu },
+        { name: "Twitter", url: "https://x.com/Ravex_AI", icon: cu },
+        { name: "Telegram", url: "https://t.me/Ravex_AI", icon: pu },
       ];
       const fd = /^[$_\p{ID_Start}][$_\u{200C}\u{200D}\p{ID_Continue}]*$/u,
         pd = /^[$_\p{ID_Start}][-$_\u{200C}\u{200D}\p{ID_Continue}]*$/u,

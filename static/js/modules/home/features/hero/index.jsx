@@ -18,7 +18,7 @@ export default function Hero() {
           </p>
           <div className="flex flex-wrap gap-4">
             <a
-              href="https://app.RAVEXdefi.pro"
+              href="https://app.ravexai.org"
               target="_blank"
               rel="noopener noreferrer"
             >
