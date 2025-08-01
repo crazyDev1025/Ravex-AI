@@ -18541,19 +18541,19 @@
                     className:
                       "text-white font-medium sm:text-lg text-base sm:w-[500px] w-full mt-[3%] mb-4",
                     children:
-                      "CA:0xcomingsoon",
+                      "CA:0x1c6fa22f7a8e011b1d337f0996f76010c33b2042",
                   }),
                   (0, Me.jsxs)("div", {
                     className: "flex flex-wrap gap-4",
                     children: [
                       (0, Me.jsx)("a", {
-                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0x1c6fa22f7a8e011b1d337f0996f76010c33b2042",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, Me.jsx)(fl, { text: "Chart" }),
                       }),
                       (0, Me.jsx)("a", {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x1c6fa22f7a8e011b1d337f0996f76010c33b2042",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, Me.jsx)(fl, {
