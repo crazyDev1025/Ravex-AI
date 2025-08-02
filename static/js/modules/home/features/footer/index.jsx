@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="flex flex-col items-start justify-between sm:flex-row">
         <div className="flex flex-col ">
           <h5 className="sm:w-[300px] w-full text-sm  text-white">
-            Ravex AI is an Ravex toolkit for RWA and DePIN enhancing
+            Ravex AI is Ravex AI for RWA and DePIN enhancing
             gasless transactions, social login, multichain support and much
             more, making DeFi accessible and secure
           </h5>

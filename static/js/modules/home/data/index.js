@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Gasless Transactions",
     description:
-      "Enable zero-gas transactions using Ravex toolkit and Paymaster, making DeFi more accessible by removing transaction cost concerns.",
+      "Enable zero-gas transactions using Ravex AI and Paymaster, making DeFi more accessible by removing transaction cost concerns.",
     src: "house.jpg",
     link: "/",
     imageUrl: "Vidz3.mp4",

@@ -18535,7 +18535,7 @@
                     className:
                       "text-white font-medium sm:text-lg text-base sm:w-[500px] w-full mt-[3%] mb-4",
                     children:
-                      "An Ravex toolkit for RWA and DePIN enhancing gasless transactions, social login, multichain support and much more, making DeFi accessible and secure",
+                      "Ravex AI for RWA and DePIN enhancing gasless transactions, social login, multichain support and much more, making DeFi accessible and secure",
                   }),
                   (0, Me.jsx)("p", {
                     className:
@@ -18581,7 +18581,7 @@
           {
             title: "Gasless Transactions",
             description:
-              "Enable zero-gas transactions using Ravex toolkit and Paymaster, making DeFi more accessible by removing transaction cost concerns.",
+              "Enable zero-gas transactions using Ravex AI and Paymaster, making DeFi more accessible by removing transaction cost concerns.",
             src: "house.jpg",
             link: "/",
             imageUrl: "Vidz3.mp4",
@@ -21193,7 +21193,7 @@
                   (0, Me.jsx)("h5", {
                     className: "sm:w-[300px] w-full text-sm  text-white",
                     children:
-                      "Ravex AI is an Ravex toolkit for RWA and DePIN enhancing gasless transactions, social login, multichain support and much more, making DeFi accessible and secure",
+                      "Ravex AI is Ravex AI for RWA and DePIN enhancing gasless transactions, social login, multichain support and much more, making DeFi accessible and secure",
                   }),
                   (0, Me.jsx)("h6", {
                     className: "sm:flex hidden text-xs mt-[2%] text-white/60",
