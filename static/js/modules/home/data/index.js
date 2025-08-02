@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Gasless Transactions",
     description:
-      "Enable zero-gas transactions using ERC-4337 toolkit and Paymaster, making DeFi more accessible by removing transaction cost concerns.",
+      "Enable zero-gas transactions using Ravex toolkit and Paymaster, making DeFi more accessible by removing transaction cost concerns.",
     src: "house.jpg",
     link: "/",
     imageUrl: "Vidz3.mp4",
@@ -18,7 +18,7 @@ export const projects = [
   {
     title: "Modular Smart Accounts",
     description:
-      "Deploy ERC-4337 compliant smart contract wallets with features like automated transactions, multi-signature security, and social recovery.",
+      "Deploy Ravex compliant smart contract wallets with features like automated transactions, multi-signature security, and social recovery.",
     src: "house.jpg",
     link: "/",
     imageUrl: "Vidz2.mp4",

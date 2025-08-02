@@ -29,12 +29,12 @@ const Feature = () => {
       background: "Selfcustody.png",
     },
     {
-      title: "ERC-4337 Support",
-      heading: "ERC-4337 Support",
+      title: "Ravex Support",
+      heading: "Ravex Support",
       subparagraph:
-        "ERC-4337 Support leverages the latest account abstraction standard to enhance the user experience in the blockchain ecosystem. This standard simplifies interactions with blockchain accounts, making them more intuitive and user-friendly without compromising on security. By abstracting account management complexities, users can enjoy a seamless experience that aligns more closely with traditional financial systems, thereby lowering the barrier to entry for newcomers.",
+        "Ravex Support leverages the latest account abstraction standard to enhance the user experience in the blockchain ecosystem. This standard simplifies interactions with blockchain accounts, making them more intuitive and user-friendly without compromising on security. By abstracting account management complexities, users can enjoy a seamless experience that aligns more closely with traditional financial systems, thereby lowering the barrier to entry for newcomers.",
       paragraph:
-        "In addition to simplifying the user experience, ERC-4337 enables advanced features such as recovery options and spending limits. These features provide added layers of security and flexibility, allowing users to set predefined parameters for account usage and recover their accounts in case of loss. This enhanced functionality ensures that users can manage their digital assets with greater confidence and control, fostering a more secure and adaptable blockchain environment.",
+        "In addition to simplifying the user experience, Ravex enables advanced features such as recovery options and spending limits. These features provide added layers of security and flexibility, allowing users to set predefined parameters for account usage and recover their accounts in case of loss. This enhanced functionality ensures that users can manage their digital assets with greater confidence and control, fostering a more secure and adaptable blockchain environment.",
 
       background: "ERC-4337Support.png",
     },

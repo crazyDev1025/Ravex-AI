@@ -33,7 +33,7 @@ const team = [
   {
     name: "Arthur",
     role: "Backend",
-    bio: "Arthur, leads the development and implementation of cutting-edge infrastructure and smart wallet technologies powered by ERC-4337",
+    bio: "Arthur, leads the development and implementation of cutting-edge infrastructure and smart wallet technologies powered by Ravex",
     image: "/team/arthur.jpeg",
     linkedin: true,
     twitter: false,

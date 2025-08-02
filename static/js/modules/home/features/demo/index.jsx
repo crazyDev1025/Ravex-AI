@@ -10,9 +10,9 @@ export default function DemoPreview() {
   // Add headers array corresponding to each video
   const headers = [
     "Inside RAVEX: B Venkatesh Answers the Big Questions",
-    "How to Integrate MagMar SDK in Minutes | Gasless Transactions Made Easy (ERC-4337)",
-    "RAVEX SDK | Build Web3 Experiences with AI + Account Abstraction (ERC-4337)",
-    "MagMar Wallet Built on ERC-4337 | Gasless, Secure & Developer-Ready",
+    "How to Integrate MagMar SDK in Minutes | Gasless Transactions Made Easy (Ravex)",
+    "RAVEX SDK | Build Web3 Experiences with AI + Account Abstraction (Ravex)",
+    "MagMar Wallet Built on Ravex | Gasless, Secure & Developer-Ready",
   ];
 
   const videos = [

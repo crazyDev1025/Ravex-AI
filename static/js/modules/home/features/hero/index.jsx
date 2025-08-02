@@ -12,7 +12,7 @@ export default function Hero() {
             Adoption
           </h1>
           <p className="text-white font-medium sm:text-lg text-base sm:w-[500px] w-full mt-[3%] mb-4">
-            An ERC-4337 toolkit for RWA and DePIN enhancing gasless
+            An Ravex toolkit for RWA and DePIN enhancing gasless
             transactions, social login, multichain support and much more, making
             DeFi accessible and secure
           </p>

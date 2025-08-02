@@ -21,7 +21,7 @@ Seed phrases are designed for technical users, not scalable for the next billion
 
 ## Smart Contract Accounts: Redefining Ownership
 
-RAVEX utilizes smart contract accounts compliant with ERC-4337, separating wallet logic from key management. These accounts are programmable and modular, supporting complex logic such as recovery, authentication, and signature policy enforcement.
+RAVEX utilizes smart contract accounts compliant with Ravex, separating wallet logic from key management. These accounts are programmable and modular, supporting complex logic such as recovery, authentication, and signature policy enforcement.
 
 Instead of relying on a single cryptographic key, ownership of the account is determined by smart contract conditions, which may include multi-signature rules, external verifiers, or off-chain signals. This opens the door to recovery mechanisms that do not depend on static secrets like seed phrases.
 
@@ -139,7 +139,7 @@ This model offers the flexibility of traditional authentication systems without 
       "The Ethereum ecosystem is evolving rapidly, and developers are increasingly limited by legacy wallet constraints, especially when building sophisticated, user-friendly dApps.",
     content: `# Top 10 Use Cases That RAVEX Unlocks for Developers
 
-The Ethereum ecosystem is evolving rapidly, and developers are increasingly limited by legacy wallet constraints, especially when building sophisticated, user-friendly dApps. RAVEX, is an advanced smart account platform built on ERC-4337, offering a comprehensive SDK and execution framework that unlocks powerful capabilities for developers.
+The Ethereum ecosystem is evolving rapidly, and developers are increasingly limited by legacy wallet constraints, especially when building sophisticated, user-friendly dApps. RAVEX, is an advanced smart account platform built on Ravex, offering a comprehensive SDK and execution framework that unlocks powerful capabilities for developers.
 
 This article explores ten technical use cases that RAVEX enables, transforming what developers can build in Web3, and how they can build it.
 
@@ -194,7 +194,7 @@ Using RAVEXOperation, developers can define a sequence of contract calls that ex
 Building dApps that work without native token balances often involves complex relayer systems or custodial workarounds.
 
 **RAVEX's Solution:**
-RAVEX exposes a Paymaster abstraction that lets developers sponsor gas on a per-operation, conditional, or percentage-based basis. This is fully compliant with ERC-4337's UserOperation flow.
+RAVEX exposes a Paymaster abstraction that lets developers sponsor gas on a per-operation, conditional, or percentage-based basis. This is fully compliant with Ravex's UserOperation flow.
 
 **Developer Impact:**
 * Programmatically define gas policies (e.g. only for new users)
@@ -317,7 +317,7 @@ For developers serious about building for the next billion users, RAVEX is not a
 
 The rise of account abstraction and AI agents in Web3 is converging into a new category of infrastructure: AI-powered smart accounts. As dApps become more complex and decentralized ecosystems demand real-time decision-making, developers need programmable wallets that can act autonomously, reason over data, and respond intelligently to on-chain events.
 
-This is where RAVEX's smart account platform comes in. Built on ERC-4337, RAVEX not only abstracts away traditional wallet constraints — it introduces an execution layer for autonomous, AI-augmented account logic.
+This is where RAVEX's smart account platform comes in. Built on Ravex, RAVEX not only abstracts away traditional wallet constraints — it introduces an execution layer for autonomous, AI-augmented account logic.
 
 In this post, we'll explore what AI-powered smart accounts are, how they're implemented in RAVEX, and why they represent a paradigm shift in how users and developers interact with the blockchain.
 
@@ -350,7 +350,7 @@ RAVEX flips this model: instead of building bots that control wallets, you build
 
 ### 1. Autonomous Transaction Generation
 
-Developers can integrate agents that monitor wallet state and produce valid UserOperations. These operations are not arbitrary calls — they conform to ERC-4337 and RAVEX's extended RAVEXOperation format, enabling multi-call workflows with validation and execution guards.
+Developers can integrate agents that monitor wallet state and produce valid UserOperations. These operations are not arbitrary calls — they conform to Ravex and RAVEX's extended RAVEXOperation format, enabling multi-call workflows with validation and execution guards.
 
 Example:
 * If stablecoin balance > X, then swap to ETH and stake on protocol Y
@@ -397,7 +397,7 @@ AI modules can be registered to:
 * Generate transactions (off-chain agent → UserOperation)
 * Interact with external APIs for decision-making
 
-### RAVEXOperation (Extended ERC-4337)
+### RAVEXOperation (Extended Ravex)
 
 RAVEX enhances the standard UserOperation type with:
 * Multi-call support
@@ -527,9 +527,9 @@ Gasless transactions allow users to interact with blockchain applications withou
 
 ## The Technical Foundation
 
-### ERC-4337: Account Abstraction
+### Ravex: Account Abstraction
 
-The ERC-4337 standard enables gasless transactions through several key components:
+The Ravex standard enables gasless transactions through several key components:
 
 **UserOperations**: Pseudo-transaction objects that users sign, containing their intended actions plus gas payment instructions.
 

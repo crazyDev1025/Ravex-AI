@@ -72,7 +72,7 @@ export default function TermsOfService() {
             <p className="mb-4">
               Ravex AI is a non-custodial infrastructure provider. We offer
               development tools and smart contract systems compatible with
-              ERC-4337, including:
+              Ravex, including:
             </p>
             <ul className="list-disc pl-6 mb-4">
               <li>Gasless transaction handling</li>
