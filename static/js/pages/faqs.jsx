@@ -51,7 +51,7 @@ const faqCategories = [
       },
       {
         id: "social-recovery",
-        question: "How does social recovery work in RAVEX wallets?",
+        question: "How does social recovery work in Ravex AIs?",
         answer:
           "Users designate trusted contacts or contracts to assist in recovering access to their wallets if keys are lost or compromised, without relying on seed phrases.",
       },
@@ -69,7 +69,7 @@ const faqCategories = [
       },
       {
         id: "upgradeable-wallets",
-        question: "Are RAVEX wallets upgradeable?",
+        question: "Are Ravex AIs upgradeable?",
         answer:
           "Yes, smart wallets support zero migration upgrades allowing new features or fixes to be applied without moving assets or recreating wallets.",
       },
@@ -77,7 +77,7 @@ const faqCategories = [
         id: "role-based-permissions",
         question: "What role-based permissions does RAVEX support?",
         answer:
-          "RAVEX wallets allow assignment of specific roles such as Admin, Executor, or Recovery Agent, giving granular control over wallet operations.",
+          "Ravex AIs allow assignment of specific roles such as Admin, Executor, or Recovery Agent, giving granular control over wallet operations.",
       },
     ],
   },
@@ -141,7 +141,7 @@ const faqCategories = [
       },
       {
         id: "emergency-controls",
-        question: "Are there emergency controls in RAVEX wallets?",
+        question: "Are there emergency controls in Ravex AIs?",
         answer:
           "Yes, Guardian Contracts act as failsafes to pause or restrict wallet actions in case of suspected compromise.",
       },

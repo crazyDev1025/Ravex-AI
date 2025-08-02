@@ -10,11 +10,9 @@ export default function Portfolio() {
             Track Your Portfolio in Excruciating Detail.
           </h2>
           <p className="sm:w-[700px] sm:text-lg text-sm text-white text-center sm:text-white/60 sm:my-0 my-[4%]">
-            Track your RAVEX Wallet (realized and unrealized), historical
-            portfolio balances, collectibles and their floor prices and your
-            real time net-worth, all with a websockets powered chart that
-            refreshes every 5 seconds for a truly real time portfolio management
-            experience.
+            $RAVEX empowers users to earn passive income through protocol incentives while actively contributing to the network’s security and governance. The staking process is simple, non-custodial, and designed to give users full control over their assets.
+
+With its secure cross-chain bridge, RAVEX enables fast, low-cost transactions and seamless interoperability across ecosystems. Built with a security-first approach and backed by audited smart contracts, RAVEX ensures trustless, efficient movement of assets across chains.
           </p>
         </div>
         <div className="flex justify-center mt-[2%]  px-[6%]">

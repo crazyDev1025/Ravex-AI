@@ -18535,7 +18535,7 @@
                     className:
                       "text-white font-medium sm:text-lg text-base sm:w-[500px] w-full mt-[3%] mb-4",
                     children:
-                      "Ravex AI for RWA and DePIN enhancing gasless transactions, social login, multichain support and much more, making DeFi accessible and secure",
+                      "Ravex AI is for RWA and DePIN enhancing gasless transactions, social login, multichain support and much more, making DeFi accessible and secure",
                   }),
                   (0, Me.jsx)("p", {
                     className:
@@ -20969,7 +20969,7 @@
                     className:
                       "sm:w-[700px] sm:text-lg text-sm text-white text-center sm:text-white/60 sm:my-0 my-[4%]",
                     children:
-                      "Track your RAVEX Wallet (realized and unrealized), historical portfolio balances, collectibles and their floor prices and your real time net-worth, all with a websockets powered chart that refreshes every 5 seconds for a truly real time portfolio management experience.",
+                      "$RAVEX lets users earn passive income through staking while supporting network security and governance with full asset control. Its secure cross-chain bridge enables fast, low-cost, and seamless asset transfers backed by audited smart contracts.",
                   }),
                 ],
               }),
@@ -21193,11 +21193,11 @@
                   (0, Me.jsx)("h5", {
                     className: "sm:w-[300px] w-full text-sm  text-white",
                     children:
-                      "Ravex AI is Ravex AI for RWA and DePIN enhancing gasless transactions, social login, multichain support and much more, making DeFi accessible and secure",
+                      "Ravex AI is for RWA and DePIN enhancing gasless transactions, social login, multichain support and much more, making DeFi accessible and secure",
                   }),
                   (0, Me.jsx)("h6", {
                     className: "sm:flex hidden text-xs mt-[2%] text-white/60",
-                    children: "Copyright \xa9 2025 RAVEX Wallet",
+                    children: "Copyright \xa9 2025 Ravex AI",
                   }),
                 ],
               }),
@@ -21236,7 +21236,7 @@
                   }),
                   (0, Me.jsx)("h6", {
                     className: "sm:hidden  flex text-xs mt-[2%] text-white/60",
-                    children: "Copyright \xa9 2025 RAVEX Wallet",
+                    children: "Copyright \xa9 2025 Ravex AI",
                   }),
                   (0, Me.jsxs)("div", {
                     className: "flex gap-4 mt-[2%]",
@@ -23283,7 +23283,7 @@
             },
             {
               id: "social-recovery",
-              question: "How does social recovery work in RAVEX wallets?",
+              question: "How does social recovery work in Ravex AIs?",
               answer:
                 "Users designate trusted contacts or contracts to assist in recovering access to their wallets if keys are lost or compromised, without relying on seed phrases.",
             },
@@ -23301,7 +23301,7 @@
             },
             {
               id: "upgradeable-wallets",
-              question: "Are RAVEX wallets upgradeable?",
+              question: "Are Ravex AIs upgradeable?",
               answer:
                 "Yes, smart wallets support zero migration upgrades allowing new features or fixes to be applied without moving assets or recreating wallets.",
             },
@@ -23309,7 +23309,7 @@
               id: "role-based-permissions",
               question: "What role-based permissions does RAVEX support?",
               answer:
-                "RAVEX wallets allow assignment of specific roles such as Admin, Executor, or Recovery Agent, giving granular control over wallet operations.",
+                "Ravex AIs allow assignment of specific roles such as Admin, Executor, or Recovery Agent, giving granular control over wallet operations.",
             },
           ],
         },
@@ -23376,7 +23376,7 @@
             },
             {
               id: "emergency-controls",
-              question: "Are there emergency controls in RAVEX wallets?",
+              question: "Are there emergency controls in Ravex AIs?",
               answer:
                 "Yes, Guardian Contracts act as failsafes to pause or restrict wallet actions in case of suspected compromise.",
             },
@@ -23668,7 +23668,7 @@
         },
         {
           id: "magmar-wallet-sdk",
-          title: "RAVEX Wallet SDK",
+          title: "Ravex AI SDK",
           content:
             "Developer toolkit to build, deploy, and interact with smart accounts on the Ravex AIstructure. Includes prebuilt modules for social recovery, gasless execution, and plugin extensibility.",
         },

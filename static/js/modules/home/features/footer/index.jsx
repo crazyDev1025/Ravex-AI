@@ -7,13 +7,13 @@ export default function Footer() {
       <div className="flex flex-col items-start justify-between sm:flex-row">
         <div className="flex flex-col ">
           <h5 className="sm:w-[300px] w-full text-sm  text-white">
-            Ravex AI is Ravex AI for RWA and DePIN enhancing
+            Ravex AI is for RWA and DePIN enhancing
             gasless transactions, social login, multichain support and much
             more, making DeFi accessible and secure
           </h5>
 
           <h6 className="sm:flex hidden text-xs mt-[2%] text-white/60">
-            Copyright © 2025 RAVEX Wallet
+            Copyright © 2025 Ravex AI
           </h6>
         </div>
         <div className="flex flex-col sm:items-end sm:mt-0 mt-[4%]">
@@ -43,7 +43,7 @@ export default function Footer() {
           </div>
 
           <h6 className="sm:hidden  flex text-xs mt-[2%] text-white/60">
-            Copyright © 2025 RAVEX Wallet
+            Copyright © 2025 Ravex AI
           </h6>
           <div className="flex gap-4 mt-[2%]">
           </div>

@@ -12,7 +12,7 @@ export default function Hero() {
             Adoption
           </h1>
           <p className="text-white font-medium sm:text-lg text-base sm:w-[500px] w-full mt-[3%] mb-4">
-            Ravex AI for RWA and DePIN enhancing gasless
+            Ravex AI is for RWA and DePIN enhancing gasless
             transactions, social login, multichain support and much more, making
             DeFi accessible and secure
           </p>

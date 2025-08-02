@@ -41,7 +41,7 @@ const glossaryTerms = [
   },
   {
     id: "magmar-wallet-sdk",
-    title: "RAVEX Wallet SDK",
+    title: "Ravex AI SDK",
     content:
       "Developer toolkit to build, deploy, and interact with smart accounts on the Ravex AIstructure. Includes prebuilt modules for social recovery, gasless execution, and plugin extensibility.",
   },
